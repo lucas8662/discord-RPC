@@ -1,2 +1,0 @@
-localhost:7777=localhost
-135.148.76.230:7777=background
