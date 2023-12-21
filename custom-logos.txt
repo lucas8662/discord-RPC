@@ -4,4 +4,4 @@ localhost:7777=localhost
 135.148.76.230:7777=background
 135.148.153.107:7778=localhost
 135.148.153.107:7777=localhost
-ip.mundosupremo.com.br=mundosupremo
+15.204.167.99=mundosupremo
