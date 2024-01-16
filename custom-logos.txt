@@ -1,4 +1,3 @@
 localhost:7777=localhost
 127.0.0.1:7777=localhost
-26.158.46.206:7777=localhost
 135.148.76.230:7777=background
