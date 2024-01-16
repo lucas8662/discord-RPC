@@ -1,4 +1,4 @@
-# SA:MP Discord Rich Presence plugin
+# SA:MP Discord Rich Presence - Add Buttons plugin
 
 This plugin features custom server logos. 
 
