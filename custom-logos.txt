@@ -1,4 +1,4 @@
-127.0.0.1:7777=https://supremogroup.github.io/SupGIF.gif
+127.0.0.1:7777=localhost
 135.148.76.230:7777=background
 131.196.199.184:7777=paradox
 131.196.196.91:7777=paradox
