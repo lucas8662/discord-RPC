@@ -1,4 +1,4 @@
-127.0.0.1:7777=localhost
+127.0.0.1:7777=supremoroleplay.com/images/logo.png
 135.148.76.230:7777=background
 131.196.199.184:7777=paradox
 131.196.196.91:7777=paradox
