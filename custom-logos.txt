@@ -1,4 +1,4 @@
 109.107.167.163:7777=https://supremogroup.github.io/SupGIF.gif,BUTTOM1,BUTTOM2,https://LINK1.com,https://LINK2.com
-135.148.153.109:7777=https://lucas8662.github.io/image/pandora.png,Jogar,Discord,samp://135.148.153.109:7777,https://discord.gg/geebJyUv9V
+135.148.153.109:7777=https://lucas8662.github.io/images/pandora.png,Jogar,Discord,samp://135.148.153.109:7777,https://discord.gg/geebJyUv9V
 131.196.199.184:7777=paradox
 131.196.196.91:7777=paradox
