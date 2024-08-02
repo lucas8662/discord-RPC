@@ -1,4 +1,4 @@
-194.164.35.246:7777=https://lucas8662.github.io/images/hyper.webp,Jogar!,Discord,samp://109.107.167.163:7777,https://discord.gg/geebJyUv9
+194.164.35.246:7777=https://lucas8662.github.io/images/hyper.webp,Jogar!,Discord,samp://194.164.35.246:7777,https://discord.gg/geebJyUv9
 135.148.153.109:7777=https://lucas8662.github.io/images/pandora.png,Jogar,Discord,samp://135.148.153.109:7777,https://discord.gg/geebJyUv9V
 131.196.199.184:7777=paradox
 131.196.196.91:7777=paradox
