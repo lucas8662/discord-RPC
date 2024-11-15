@@ -1,4 +1,4 @@
 135.148.76.230:7777=https://lucas8662.github.io/images/pandora.png,🎮 Jogar,📎 Discord,samp://135.148.76.230:7777,https://discord.gg/geebJyUv9V
-165.154.213.150:7777=https://user-images.githubusercontent.com/52937083/153977745-311bd219-c02d-40d7-955d-92319a9467bd.png,🎮 Jogar,📎 Discord,samp://165.154.213.150:7777,https://discord.gg/geebJyUv9V
+165.154.213.150:7777=https://user-images.githubusercontent.com/52937083/153977745-311bd219-c02d-40d7-955d-92319a9467bd.png,🎮 Jogar,📎 Discord,samp://165.154.213.150:7777,https://discord.gg/null
 131.196.199.184:7777=paradox
 131.196.196.91:7777=paradox
