@@ -1,4 +1,1 @@
-131.196.199.184:7777=paradox
-131.196.196.91:7777=paradox
-15.204.194.6:7777=https://lucas8662.github.io/images/revoada.jpg,🎮 Jogar,📎 Discord,samp://15.204.194.6:7777,https://discord.gg/MVn8yZuZKs
-104.234.224.72:7777=https://lucas8662.github.io/race.jpg,🎮 Jogar,📎 Discord,samp://104.234.224.72:7777,https://discord.gg/
+135.148.76.227:7777=https://lucas8662.github.io/images/forza.png,🎮 Jogar,📎 Discord,samp://135.148.76.227:7777,https://discord.gg/MVn8yZuZKs
